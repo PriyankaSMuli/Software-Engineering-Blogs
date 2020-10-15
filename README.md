@@ -6,6 +6,6 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [AirBrake](https://airbrake.io/blog/) - AirBrake Blog.
 * [Apple](https://developer.apple.com/swift/blog/) - Swift Blog.
 * [Artsy](http://artsy.github.io/) - Artsy Engineering Blog.
-* [Asana](https://blog.asana.com/category/eng/) - Asana Engineering.
+* [Asana](https://blog.asana.com/category/eng/) - Asana Engineering Blog.
 * [Google Developers](https://developers.googleblog.com/) - Google Developers Blog.
 
