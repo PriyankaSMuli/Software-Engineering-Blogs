@@ -7,5 +7,6 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Apple](https://developer.apple.com/swift/blog/) - Swift Blog.
 * [Artsy](http://artsy.github.io/) - Artsy Engineering Blog.
 * [Asana](https://blog.asana.com/category/eng/) - Asana Engineering Blog.
+* [Backtrace](https://backtrace.io/blog/) - Backtrace Blog.
 * [Google Developers](https://developers.googleblog.com/) - Google Developers Blog.
 
