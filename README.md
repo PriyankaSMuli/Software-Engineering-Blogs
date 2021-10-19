@@ -8,5 +8,6 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Artsy](http://artsy.github.io/) - Artsy Engineering Blog.
 * [Asana](https://blog.asana.com/category/eng/) - Asana Engineering Blog.
 * [Avant](http://avant.engineering/) - Avant Engineering.
+* [Backtrace](https://backtrace.io/blog/) - Backtrace Blog.
 * [Google Developers](https://developers.googleblog.com/) - Google Developers Blog.
 
