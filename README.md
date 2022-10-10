@@ -11,5 +11,6 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Backtrace](https://backtrace.io/blog/) - Backtrace Blog.
 * [BandCamp](https://bandcamptech.wordpress.com/) - Bandcamp Tech.
 * [Bitly](https://word.bitly.com/) - Bitly Engineering.
+* [Bittorrent](http://engineering.bittorrent.com/) - Bittorrent Engineering Blog.
 * [Google Developers](https://developers.googleblog.com/) - Google Developers Blog.
 
