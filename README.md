@@ -11,6 +11,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [Apple](https://developer.apple.com/swift/blog/) - Swift Blog.
 * [Artsy](http://artsy.github.io/) - Artsy Engineering Blog.
 * [Asana](https://blog.asana.com/category/eng/) - Asana Engineering Blog.
+* [AutoDesk](https://www.autodesk.com/blogs/) - AutoDesk Blog.
 * [Avant](http://avant.engineering/) - Avant Engineering.
 * [Backtrace](https://backtrace.io/blog/) - Backtrace Blog.
 * [BandCamp](https://bandcamptech.wordpress.com/) - Bandcamp Tech.
