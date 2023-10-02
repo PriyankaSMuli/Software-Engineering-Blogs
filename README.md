@@ -6,6 +6,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [500px](https://developers.500px.com/) - 500PX Engineering Blog.
 * [9GAG](https://engineering.9gag.com/) - 9GAG Engineering Blog.
 * [8th Light](https://8thlight.com/blog/) - 8th Light Engineering Blog.
+* [ADP](https://tech.adp.com/blog/) - ADP blog.
 * [AirBnB](http://nerds.airbnb.com/) - AirBnB Engineering Blog.
 * [AirBrake](https://airbrake.io/blog/) - AirBrake Blog.
 * [Apple](https://developer.apple.com/swift/blog/) - Swift Blog.
