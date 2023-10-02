@@ -15,6 +15,7 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [AutoDesk](https://www.autodesk.com/blogs/) - AutoDesk Blog.
 * [Avant](http://avant.engineering/) - Avant Engineering.
 * [Backtrace](https://backtrace.io/blog/) - Backtrace Blog.
+* [Baidu](https://research.baidu.com/Blog) - Baidu Blog.
 * [BandCamp](https://bandcamptech.wordpress.com/) - Bandcamp Tech.
 * [Bitly](https://word.bitly.com/) - Bitly Engineering.
 * [Bittorrent](http://engineering.bittorrent.com/) - Bittorrent Engineering Blog.
