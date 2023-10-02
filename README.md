@@ -16,4 +16,5 @@ A curated list of engineering blogs of startup and enterprise companies.
 * [BandCamp](https://bandcamptech.wordpress.com/) - Bandcamp Tech.
 * [Bitly](https://word.bitly.com/) - Bitly Engineering.
 * [Bittorrent](http://engineering.bittorrent.com/) - Bittorrent Engineering Blog.
+* [Cloudera](https://blog.cloudera.com/category/technical) - Cloudera Blog.
 * [Google Developers](https://developers.googleblog.com/) - Google Developers Blog.
